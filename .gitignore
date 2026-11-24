@@ -1,0 +1,33 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvgui.*
+*.o
+*.obj
+*.OBJ
+*.lst
+*.LST
+*.map
+*.M51
+*.hex
+*.HEX
+*.bin
+*.axf
+*.elf
+*.crf
+*.d
+*.dep
+*.lnp
+*.sct
+*.htm
+*.build_log.htm
+*.bak
+*.scvd
+
+# archives
+*.zip
+
+# editor
+.vscode/
